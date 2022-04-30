@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Oct 2019 04:09:39 at https://call-of-duty-mobile-cheats-mod.hotmod.eu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://call-of-duty-mobile-cheats-mod.hotmod.eu/ -O1 "C:\Users\HP\Desktop\ssss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:09:47	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/style_content_locker.css (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/)
+04:09:47	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/jquery_content_locker.js (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/)
+04:09:47	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/img/favicon.ico (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regular.eot (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regulard41d.eot? (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regular.html (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regular.woff (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regular.ttf (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/fonts/glyphicons-halflings-regular.svg (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/bootstrap.min.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/img/searching.html (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/css/style.css)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/Popover requires tooltip.js (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/js/bootstrap.min.js)
+04:09:55	Error: 	"Not Found" (404) at link https://call-of-duty-mobile-cheats-mod.hotmod.eu/; path=/ (from https://call-of-duty-mobile-cheats-mod.hotmod.eu/js/com.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 57 links scanned, 44 files written (1297657 bytes overall) [943014 bytes received at 58938 bytes/sec], 550747 bytes transferred using HTTP compression in 30 files, ratio 26%, 11.4 requests per connection
+(12 errors, 0 warnings, 0 messages)
